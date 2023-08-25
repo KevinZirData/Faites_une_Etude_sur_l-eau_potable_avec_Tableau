@@ -14,8 +14,9 @@ Option C : pour les étudiants en alternance, réaliser un projet de visualisati
 Option A
 Vous êtes consultant Data Analyst en mission dans l’ONG DWFA (Drinking Water For All) ; elle a pour ambition de donner accès à l’eau potable à tout le monde.
 
-Logo DWFA
-Logo DWFA
+![image](https://github.com/KevinZirData/OP_Projet_8_Faites_une_Etude_sur_l-eau_potable/assets/142809013/5f873905-1060-42a7-a7a8-20bb22127882)
+
+
 DWFA présente 3 domaines d’expertises :
 
 Création de services d’accès à l’eau potable ;
